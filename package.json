@@ -1,0 +1,14 @@
+{
+  "name": "bubbla-party-supplies",
+  "version": "1.0.0",
+  "description": "T14 Case Problem 1",
+  "main": "index.html",
+  "license": "MIT",
+  "author": "Hesbon Osoro <hesbonosoro1@gmail.com>",
+  "scripts": {
+    "format": "prettier --write ."
+  },
+  "devDependencies": {
+    "prettier": "^2.0.5"
+  }
+}
